@@ -1,0 +1,10 @@
+11:32:29 **** Incremental Build of configuration Debug for project Water_Reservoir_System ****
+make -j4 all 
+arm-none-eabi-size  Water_Reservoir_System.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29240	    104	   2520	  31864	   7c78	Water_Reservoir_System.elf
+Finished building: default.size.stdout
+ 
+
+11:32:29 Build Finished. 0 errors, 0 warnings. (took 462ms)
+

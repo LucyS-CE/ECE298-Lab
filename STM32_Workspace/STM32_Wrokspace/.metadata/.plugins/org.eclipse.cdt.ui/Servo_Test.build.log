@@ -1,0 +1,10 @@
+17:02:46 **** Incremental Build of configuration Debug for project Servo_Test ****
+make -j4 all 
+arm-none-eabi-size  Servo_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11576	     12	   1716	  13304	   33f8	Servo_Test.elf
+Finished building: default.size.stdout
+ 
+
+17:02:46 Build Finished. 0 errors, 0 warnings. (took 512ms)
+

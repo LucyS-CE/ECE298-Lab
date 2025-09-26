@@ -1,0 +1,10 @@
+09:24:05 **** Incremental Build of configuration Debug for project BCD_Digits ****
+make -j4 all 
+arm-none-eabi-size  BCD_Digits.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8244	     12	   1644	   9900	   26ac	BCD_Digits.elf
+Finished building: default.size.stdout
+ 
+
+09:24:06 Build Finished. 0 errors, 0 warnings. (took 514ms)
+
